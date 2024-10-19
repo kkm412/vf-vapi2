@@ -19,5 +19,8 @@
     "eslint": "~8.48.0",
     "eslint-config-prettier": "^9.0.0",
     "prettier": "^2.6.2"
+  },
+  "engines": {
+    "node": "20.18.0"
   }
 }
